@@ -7,12 +7,10 @@
      - companies 🏢
      - economics 💰
      - the world 🌎
-
-  
 <div>
    <a href="https://github.com/raissabraganca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raissabraganca&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissabraganca&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raissabraganca&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissabraganca&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
   
 <div style="display: inline_block"><br>
