@@ -1,6 +1,5 @@
 ### Hey you! 😊
- - 🎓 PhD in Economics 
- - 📈 Applied econometrics
+ - 🎓 PhD in Economics 📈 Applied econometrics 
  - 📊 I use data to understand 
      - people - including myself 😜
      - companies 🏢
